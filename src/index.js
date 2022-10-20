@@ -1,7 +1,7 @@
 const express = require('express');
 var bodyParser = require('body-parser');
 
-const route = require('./routes/route.js');
+const route = require('./routes/Consecutive_Numbers_1.js');
 
 const app = express();
 
